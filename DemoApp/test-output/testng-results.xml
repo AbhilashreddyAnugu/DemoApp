@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WordpressApplication" duration-ms="76060" started-at="2019-10-19T09:58:08 IST" finished-at="2019-10-19T09:59:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76060" started-at="2019-10-19T09:58:08 IST" finished-at="2019-10-19T09:59:25 IST">
+      <class name="Com.Wordpress.qa.Test.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.Wordpress.qa.Test.HomepageTest@6043cd28]" name="setup" is-config="true" duration-ms="13904" started-at="2019-10-19T09:58:40 IST" finished-at="2019-10-19T09:58:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchButtonDataTest()[pri:0, instance:Com.Wordpress.qa.Test.HomepageTest@6043cd28]" name="SearchButtonDataTest" duration-ms="23079" started-at="2019-10-19T09:58:54 IST" finished-at="2019-10-19T09:59:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchButtonDataTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Com.Wordpress.qa.Test.HomepageTest@6043cd28]" name="teardown" is-config="true" duration-ms="7186" started-at="2019-10-19T09:59:17 IST" finished-at="2019-10-19T09:59:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.Wordpress.qa.Test.HomepageTest -->
+      <class name="Com.Wordpress.qa.Test.LoginpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.Wordpress.qa.Test.LoginpageTest@42d8062c]" name="setup" is-config="true" duration-ms="8891" started-at="2019-10-19T09:58:08 IST" finished-at="2019-10-19T09:58:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateTestTitle()[pri:1, instance:Com.Wordpress.qa.Test.LoginpageTest@42d8062c]" name="validateTestTitle" duration-ms="48" started-at="2019-10-19T09:58:17 IST" finished-at="2019-10-19T09:58:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTestTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Com.Wordpress.qa.Test.LoginpageTest@42d8062c]" name="teardown" is-config="true" duration-ms="4720" started-at="2019-10-19T09:58:17 IST" finished-at="2019-10-19T09:58:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.Wordpress.qa.Test.LoginpageTest@42d8062c]" name="setup" is-config="true" duration-ms="7355" started-at="2019-10-19T09:58:22 IST" finished-at="2019-10-19T09:58:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:2, instance:Com.Wordpress.qa.Test.LoginpageTest@42d8062c]" name="logintest" duration-ms="6521" started-at="2019-10-19T09:58:30 IST" finished-at="2019-10-19T09:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Com.Wordpress.qa.Test.LoginpageTest@42d8062c]" name="teardown" is-config="true" duration-ms="4281" started-at="2019-10-19T09:58:36 IST" finished-at="2019-10-19T09:58:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.Wordpress.qa.Test.LoginpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- WordpressApplication -->
+</testng-results>

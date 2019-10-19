@@ -1,0 +1,59 @@
+2019-10-19 02:50:34,570  INFO [main] HomepageTest:44 - your post is published
+2019-10-19 02:54:37,041  INFO [main] HomepageTest:44 - your post is published
+2019-10-19 02:56:53,959  INFO [main] HomepageTest:44 - your post is published
+2019-10-19 03:08:32,312  INFO [main] HomepageTest:27 - browser is starting
+2019-10-19 03:08:39,815  INFO [main] HomepageTest:29 - browser is opened
+2019-10-19 03:08:46,554  INFO [main] HomepageTest:33 - user entered username and data
+2019-10-19 03:09:05,525  INFO [main] HomepageTest:44 - your post is published
+2019-10-19 09:33:02,153  INFO [main] HomepageTest:27 - browser is starting
+2019-10-19 09:33:23,176  INFO [main] HomepageTest:29 - browser is opened
+2019-10-19 09:33:29,114  INFO [main] HomepageTest:33 - user entered username and data
+2019-10-19 09:34:12,394 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:34:12,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:34:12,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:34:12,402 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:34:12,403 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:34:13,052 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:34:13,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:34:13,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:34:13,055 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:34:13,055 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:39:44,191  INFO [main] HomepageTest:27 - browser is starting
+2019-10-19 09:40:26,754 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:40:26,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:40:26,757 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:40:26,759 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:40:26,759 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:40:27,216 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:40:27,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:40:27,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:40:27,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:40:27,218 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:41:27,689  INFO [main] HomepageTest:27 - browser is starting
+2019-10-19 09:41:43,308  INFO [main] HomepageTest:29 - browser is opened
+2019-10-19 09:41:50,117  INFO [main] HomepageTest:33 - user entered username and data
+2019-10-19 09:42:11,793  INFO [main] HomepageTest:44 - your post is published
+2019-10-19 09:42:29,502 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:42:29,505 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:42:29,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:42:29,510 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:42:29,510 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:42:29,873 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:42:29,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:42:29,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:42:29,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:42:29,875 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:58:40,841  INFO [main] HomepageTest:27 - browser is starting
+2019-10-19 09:58:48,252  INFO [main] HomepageTest:29 - browser is opened
+2019-10-19 09:58:54,744  INFO [main] HomepageTest:33 - user entered username and data
+2019-10-19 09:59:15,822  INFO [main] HomepageTest:44 - your post is published
+2019-10-19 09:59:25,276 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:59:25,278 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:59:25,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:59:25,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:59:25,283 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-19 09:59:25,645 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-19 09:59:25,645 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-19 09:59:25,646 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-19 09:59:25,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-19 09:59:25,647 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/INSPIRON/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
